@@ -10,5 +10,3 @@
 Samar-git-hub/Samar-git-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Languages and tools:
-![image](https://github.com/user-attachments/assets/6490ee89-f007-4557-8827-58ab4bfe9b31)
